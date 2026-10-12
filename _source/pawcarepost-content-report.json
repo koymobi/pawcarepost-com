@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "how-often-should-you-bathe-your-dog",
+    "words": 2051,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 135,
+    "titleLength": 59
+  },
+  {
+    "slug": "how-to-clean-your-dogs-ears-safely-at-home",
+    "words": 2029,
+    "format": "checklist",
+    "images": 2,
+    "metaLength": 138,
+    "titleLength": 52
+  },
+  {
+    "slug": "how-often-should-you-trim-your-dogs-nails",
+    "words": 2076,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 140,
+    "titleLength": 59
+  },
+  {
+    "slug": "why-does-my-dog-keep-licking-his-paws",
+    "words": 2066,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 134,
+    "titleLength": 53
+  },
+  {
+    "slug": "how-to-keep-your-dogs-paws-clean-after-a-walk",
+    "words": 2026,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 145,
+    "titleLength": 50
+  },
+  {
+    "slug": "how-often-should-you-change-cat-litter",
+    "words": 2124,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 134,
+    "titleLength": 57
+  },
+  {
+    "slug": "why-is-my-cat-suddenly-hiding",
+    "words": 2084,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 145,
+    "titleLength": 50
+  },
+  {
+    "slug": "why-does-my-cat-meow-at-night",
+    "words": 2039,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 133,
+    "titleLength": 49
+  },
+  {
+    "slug": "how-often-should-you-brush-your-cat",
+    "words": 2053,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 127,
+    "titleLength": 52
+  },
+  {
+    "slug": "why-does-my-cat-scratch-the-furniture",
+    "words": 2052,
+    "format": "checklist",
+    "images": 2,
+    "metaLength": 137,
+    "titleLength": 57
+  },
+  {
+    "slug": "why-does-my-dog-scratch-without-fleas",
+    "words": 2065,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 142,
+    "titleLength": 59
+  },
+  {
+    "slug": "why-is-my-dog-shaking",
+    "words": 2018,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 131,
+    "titleLength": 53
+  },
+  {
+    "slug": "why-is-my-cat-drinking-so-much-water",
+    "words": 2019,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 126,
+    "titleLength": 58
+  },
+  {
+    "slug": "why-is-my-dogs-nose-dry",
+    "words": 2044,
+    "format": "myths",
+    "images": 2,
+    "metaLength": 139,
+    "titleLength": 50
+  },
+  {
+    "slug": "when-should-you-take-your-pet-to-the-vet",
+    "words": 2058,
+    "format": "checklist",
+    "images": 2,
+    "metaLength": 137,
+    "titleLength": 58
+  },
+  {
+    "slug": "can-dogs-eat-bananas",
+    "words": 2068,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 140,
+    "titleLength": 56
+  },
+  {
+    "slug": "can-cats-eat-cooked-chicken",
+    "words": 2055,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 140,
+    "titleLength": 60
+  },
+  {
+    "slug": "wet-vs-dry-cat-food",
+    "words": 2065,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 146,
+    "titleLength": 51
+  },
+  {
+    "slug": "how-much-water-should-a-dog-drink-each-day",
+    "words": 2018,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 133,
+    "titleLength": 56
+  },
+  {
+    "slug": "how-often-should-you-feed-an-adult-dog",
+    "words": 2071,
+    "format": "checklist",
+    "images": 2,
+    "metaLength": 129,
+    "titleLength": 54
+  },
+  {
+    "slug": "how-to-help-your-dog-stay-calm-during-car-rides",
+    "words": 2044,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 146,
+    "titleLength": 53
+  },
+  {
+    "slug": "how-to-stop-a-dog-from-barking-at-everything",
+    "words": 2012,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 133,
+    "titleLength": 57
+  },
+  {
+    "slug": "how-to-help-a-cat-adjust-to-a-new-home",
+    "words": 2041,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 131,
+    "titleLength": 60
+  },
+  {
+    "slug": "how-much-exercise-does-a-dog-need",
+    "words": 2047,
+    "format": "comparison",
+    "images": 2,
+    "metaLength": 122,
+    "titleLength": 50
+  },
+  {
+    "slug": "why-does-my-cat-follow-me-everywhere",
+    "words": 2031,
+    "format": "myths",
+    "images": 2,
+    "metaLength": 145,
+    "titleLength": 53
+  },
+  {
+    "slug": "how-to-brush-a-dogs-coat",
+    "words": 2113,
+    "format": "checklist",
+    "images": 2,
+    "metaLength": 137,
+    "titleLength": 56
+  },
+  {
+    "slug": "how-to-fit-a-dog-harness",
+    "words": 2080,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 139,
+    "titleLength": 57
+  },
+  {
+    "slug": "how-to-help-a-cat-like-its-carrier",
+    "words": 2069,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 141,
+    "titleLength": 50
+  },
+  {
+    "slug": "how-to-trim-a-cats-nails-safely",
+    "words": 2042,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 134,
+    "titleLength": 52
+  },
+  {
+    "slug": "how-to-track-your-pets-weight-at-home",
+    "words": 2021,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 152,
+    "titleLength": 57
+  },
+  {
+    "slug": "what-does-bad-breath-in-pets-mean",
+    "words": 2084,
+    "format": "triage",
+    "images": 2,
+    "metaLength": 154,
+    "titleLength": 56
+  },
+  {
+    "slug": "how-to-read-a-pet-food-label",
+    "words": 2056,
+    "format": "table",
+    "images": 2,
+    "metaLength": 138,
+    "titleLength": 55
+  },
+  {
+    "slug": "how-to-switch-dog-food-gradually",
+    "words": 2072,
+    "format": "table",
+    "images": 2,
+    "metaLength": 143,
+    "titleLength": 54
+  },
+  {
+    "slug": "how-to-teach-a-dog-to-settle-on-a-mat",
+    "words": 2067,
+    "format": "steps",
+    "images": 2,
+    "metaLength": 137,
+    "titleLength": 49
+  },
+  {
+    "slug": "daily-routine-for-an-indoor-cat",
+    "words": 2042,
+    "format": "routine",
+    "images": 2,
+    "metaLength": 145,
+    "titleLength": 58
+  }
+]
