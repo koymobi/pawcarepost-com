@@ -1,0 +1,104 @@
+# Mowplayer
+
+google.com, pub-9219954761243535, RESELLER, f08c47fec0942fa0
+google.com, pub-6864402317197092, RESELLER, f08c47fec0942fa0
+google.com, pub-5081196879566290, RESELLER, f08c47fec0942fa0
+google.com, pub-7695505803468574, RESELLER, f08c47fec0942fa0
+mowplayer.com, mow_royadata.io_m77mGS, DIRECT
+smartadserver.com, 3261, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 3261-OB, RESELLER, 060d053dcf45cbf3
+onetag.com, 863d3f1155de000, DIRECT
+onetag.com, 863d3f1155de000-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+flashb.id, 9f4f9ea8-ee4b-53ef-ac17-e0fa0a7af2eb, DIRECT
+viously.com, 594b7a6d-69ad-5b09-9a67-80e8d1b2bb48, DIRECT
+152media.info, 152M33, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+amxrtb.com, 105199710, RESELLER
+adform.com, 3125, RESELLER
+adyoulike.com, a71dd2266e84bab105b2ce336a9f1a70, RESELLER
+improvedigital.com, 2154, RESELLER
+smartadserver.com, 3389, RESELLER, 060d053dcf45cbf3
+freewheel.tv, 1602344, RESELLER
+freewheel.tv, 1602346, RESELLER
+rubiconproject.com, 20922, RESELLER, 0bfd66d529a55807
+themediagrid.com, EK87YP, RESELLER, 35d5010d7789b49d
+themediagrid.com, QUZDR9, RESELLER, 35d5010d7789b49d
+media.net, 8CU507GON, RESELLER
+onetag.com, 5cca11704094eb8, RESELLER
+openx.com, 559913615, RESELLER, 6a698e2ec38604c6
+openx.com, 558414488, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160107, RESELLER, 5d62403b186f2ace
+risecodes.com, 65b9125633dab2000102902c, RESELLER
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+onetag.com, 69f48c2160c8113, RESELLER
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+media.net, 8CUQ6928Q, RESELLER
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+sharethrough.com, 332baa08, RESELLER, d53b998a7bd4ecd2
+lijit.com, 447882, RESELLER, fafdf38b16bf6b2b
+triplelift.com, 12738, RESELLER, 6c33edb13117fd86
+triplelift.com, 9267, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 273421059, RESELLER
+appnexus.com, 11701, RESELLER
+smilewanted.com, 2457, RESELLER
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2491, RESELLER
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+appnexus.com, 10040, RESELLER
+adyoulike.com, bcf6c423bc90ec180005086dd9935a1b, RESELLER
+media.net, 8CUJ8C82U, RESELLER
+adipolo.com, 23085823283, DIRECT
+adipolosolutions.com, 23085823283, DIRECT
+pmbmonetize.com, 23085823283, DIRECT
+opamarketplace.com, 23085823283, DIRECT
+smartadline.com, 23085823283, DIRECT
+copper6.com, 23033711203, RESELLER
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+appnexus.com, 16912, RESELLER, f5ab79cb980f11d1
+appnexus.com, 15686, RESELLER, f5ab79cb980f11d1
+aps.amazon.com, d4004b5f-4fb6-4be2-82ae-0e36b8f52c12, DIRECT
+smilewanted.com, 5616, RESELLER
+media.net, 8CU42SA73, DIRECT # Web
+kueez.com, 37593fdf8691b30f3d5f396800196fc7, RESELLER
+onetag.com, 61d88450bdb25bc, DIRECT
+onetag.com, 61d88450bdb25bc-OB, DIRECT
+gannett.com, 22675194701, DIRECT
+didna.io, 494n1p17244a, DIRECT
+google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0
+adsolut.in, 17164, DIRECT
+playstream.media, 2294, DIRECT
+google.com, pub-6070398767421094, RESELLER, f08c47fec0942fa0
+google.com, pub-2561470205289901, RESELLER, f08c47fec0942fa0
+aps.amazon.com, 5d8ed25e-57cc-441a-b62a-127b34faae4e, DIRECT
+vuukle.com, f6efd7fb-07ab-4cd7-886f-44bfc6549ad0, DIRECT, c8034d3da4547abf
+google.com, pub-3494520468788589, DIRECT, f08c47fec0942fa0
+datawrkz.com, 2478, DIRECT
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
+adipolosolutions.com, 22696520452, DIRECT
+pmbmonetize.com, 22696520452, DIRECT
+opamarketplace.com, 22696520452, DIRECT
+pubmatic.com, 162319, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 24246, RESELLER, 0bfd66d529a55807
+smartadserver.com, 4734, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4734-OB, RESELLER, 060d053dcf45cbf3
+openx.com, 559803239, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 1601851, RESELLER
+freewheel.tv, 1601860, RESELLER
+google.com, pub-4586415728471297, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 24872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24874, RESELLER, 0bfd66d529a55807
